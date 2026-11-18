@@ -1,7 +1,13 @@
 # Dip-Buy BTC Bot
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/SyamXXV/btc-race-24h-20261118/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/SyamXXV/btc-race-24h-20261118/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
+
 Entry for make.fun **btc-race-24h-20261118-1444** — "Race a BTC trading bot
 live for 24 hours". Node 22, protocol `agent-fun/bars-replay/v1`.
+
+Earn referral rewards: [https://make.fun/r/ymfx8s8x](https://make.fun/r/ymfx8s8x)
 
 ## Strategy
 
